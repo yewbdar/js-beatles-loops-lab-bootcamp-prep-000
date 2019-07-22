@@ -1,4 +1,4 @@
-add solution here
+//add solution here
 function theBeatlesPlay(musician,instruments){
   let array=[];
   for(let i=0; i < musician.length; i++){
